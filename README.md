@@ -1,8 +1,8 @@
-# Advanced E-Commerce Data Analysis: Online Retail Dataset
+# 📊 Advanced E-Commerce Data Analysis: Online Retail Dataset
 
 ---
 
-# 📌 1. Introduction
+#  Introduction
 
 ## Business Context
 
@@ -60,7 +60,7 @@ This project applies multiple advanced techniques including:
 
 ---
 
-# 📌 2. Data Understanding
+#  Data Understanding
 
 Before analysis, it is essential to understand the structure and quality of the dataset.
 
@@ -75,7 +75,7 @@ This step ensures that all subsequent analysis is reliable and accurate.
 
 ---
 
-# 📌 3. Data Cleaning
+#  Data Cleaning
 
 Data cleaning is a critical step in ensuring analysis quality.
 
@@ -89,7 +89,7 @@ These steps ensure that the dataset accurately reflects real customer purchasing
 
 ---
 
-# 📌 4. Feature Engineering
+# Feature Engineering
 
 Feature engineering is used to create meaningful variables that improve analytical depth.
 
@@ -107,7 +107,7 @@ These features enable deeper understanding of customer behavior and business per
 
 ---
 
-# 📌 5. Percentile Analysis
+#  Percentile Analysis
 
 Percentile analysis is used to understand the distribution of customer revenue.
 
@@ -121,7 +121,7 @@ This helps identify whether revenue is evenly distributed or concentrated among 
 
 ---
 
-# 📌 6. Outlier Analysis (VIP Customers)
+#  Outlier Analysis (VIP Customers)
 
 Outlier detection is performed using the Interquartile Range (IQR) method.
 
@@ -135,7 +135,7 @@ This analysis helps identify:
 
 ---
 
-# 📌 7. Cross-Tabulation Analysis
+#  Cross-Tabulation Analysis
 
 Cross-tabulation is used to analyze relationships between multiple categorical variables such as country and month.
 
@@ -149,7 +149,7 @@ Such insights are not visible through simple aggregation methods.
 
 ---
 
-# 📌 8. Cohort Analysis
+#  Cohort Analysis
 
 Cohort analysis groups customers based on their first purchase month and tracks their behavior over time.
 
@@ -163,7 +163,7 @@ It is a powerful tool for understanding customer lifecycle value.
 
 ---
 
-# 📌 9. Time Series Analysis
+#  Time Series Analysis
 
 Time-based analysis is used to identify trends in revenue over time.
 
@@ -177,7 +177,7 @@ Such insights are essential for forecasting and business planning.
 
 ---
 
-# 📌 10. Customer Segmentation
+#  Customer Segmentation
 
 Customer segmentation is performed by analyzing the relationship between:
 
@@ -194,7 +194,7 @@ This segmentation supports targeted marketing strategies.
 
 ---
 
-# 📌 11. Missing Data Analysis
+#  Missing Data Analysis
 
 Missing data is analyzed to determine whether it is random or systematic.
 
@@ -208,7 +208,7 @@ Understanding missing data helps improve data collection strategies.
 
 ---
 
-# 📌 12. Key Insights
+#  Key Insights
 
 ## Insight 1: Revenue Concentration
 
@@ -232,7 +232,7 @@ Customers can be divided into distinct behavioral groups based on frequency and 
 
 ---
 
-# 📌 13. Business Recommendations
+#  Business Recommendations
 
 Based on the analysis, the following actions are recommended:
 
@@ -244,7 +244,7 @@ Based on the analysis, the following actions are recommended:
 
 ---
 
-# 📌 14. Conclusion
+# . Conclusion
 
 This analysis demonstrates that meaningful insights can be extracted from transactional data using advanced analytical techniques.
 
@@ -254,7 +254,7 @@ By applying data-driven strategies, businesses can significantly improve revenue
 
 ---
 
-# 🚀 15. How to Run This Notebook
+#  How to Run This Notebook
 
 ## Option 1: Run on Google Colab (Recommended)
 
@@ -334,7 +334,7 @@ Then open the `.ipynb` file and run cells sequentially.
 
 ---
 
-# 📦 16. Required Libraries
+#  Required Libraries
 
 This project uses the following Python libraries:
 
